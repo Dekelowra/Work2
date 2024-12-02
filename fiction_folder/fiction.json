@@ -1,0 +1,59 @@
+[
+    {
+      "id": "1",
+      "title": "Братья Карамазовы",
+      "vendor_code": "1",
+      "description": "Ф.М. Достоевский",
+      "price": 500,
+      "img": "./fiction_folder/brothers.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Дети капитана Гранта",
+      "vendor_code": "2",
+      "description": "Ж. Верн",
+      "price": 600,
+      "img": "./fiction_folder/children.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Собачье сердце",
+      "vendor_code": "3",
+      "description": "М.А. Булгаков",
+      "price": 300,
+      "img": "./fiction_folder/heart.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Герой нашего времени",
+      "vendor_code": "4",
+      "description": "М.Ю. Лермонтов",
+      "price": 200,
+      "img": "./fiction_folder/hero.jpg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Мартин Иден",
+      "vendor_code": "5",
+      "description": "Дж. Лондон",
+      "price": 400,
+      "img": "./fiction_folder/iden.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Рассказы",
+      "vendor_code": "6",
+      "description": "А.П. Чехов",
+      "price": 300,
+      "img": "./fiction_folder/stories.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Война и мир",
+      "vendor_code": "7",
+      "description": "Л.Н. Толстой",
+      "price": 700,
+      "img": "./fiction_folder/war_peace.jpg"
+    }
+  ]

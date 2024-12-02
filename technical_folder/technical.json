@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "title": "Java. Полное руководство.",
+      "vendor_code": "1",
+      "description": "Г. Шилдт",
+      "price": 1200,
+      "img": "./technical_folder/java.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Введение в алгебру. Часть II: Линейная алгебра.",
+      "vendor_code": "2",
+      "description": "А.И. Кострикин",
+      "price": 700,
+      "img": "./technical_folder/linal.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Математический анализ. I том.",
+      "vendor_code": "3",
+      "description": "В.А. Зорич",
+      "price": 1000,
+      "img": "./technical_folder/matan.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Что такое математика?",
+      "vendor_code": "4",
+      "description": "Р. Курант, Г. Робинс",
+      "price": 600,
+      "img": "./technical_folder/math.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Элементарный учебник физики. В 3 томах. Том 1. Механика. Теплота. Молекулярная физика",
+      "vendor_code": "5",
+      "description": "Г.С. Ландсберг",
+      "price": 1400,
+      "img": "./technical_folder/physics.jpg"
+    },
+    {
+      "id": "6",
+      "title": "JavaScript. Подробное руководство.",
+      "vendor_code": "6",
+      "description": "Д. Флэнаган",
+      "price": 1500,
+      "img": "./technical_folder/javascript.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Изучаем Python.",
+      "vendor_code": "7",
+      "description": "М. Лутц",
+      "price": 2500,
+      "img": "./technical_folder/python.jpg"
+    }
+  ]

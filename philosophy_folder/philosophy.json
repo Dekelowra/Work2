@@ -1,0 +1,59 @@
+[
+    {
+      "id": "1",
+      "title": "Критика чистого разума",
+      "vendor_code": "1",
+      "description": "И. Кант",
+      "price": 200,
+      "img": "./philosophy_folder/critique.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Миф о Сизифе",
+      "vendor_code": "2",
+      "description": "А. Камю",
+      "price": 100,
+      "img": "./philosophy_folder/myth.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Политика",
+      "vendor_code": "3",
+      "description": "Аристотель",
+      "price": 300,
+      "img": "./philosophy_folder/policy.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Государство",
+      "vendor_code": "4",
+      "description": "Платон",
+      "price": 400,
+      "img": "./philosophy_folder/state.jpg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Мир как воля и представление",
+      "vendor_code": "5",
+      "description": "А. Шопенгауэр",
+      "price": 400,
+      "img": "./philosophy_folder/will.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Наедине с собой",
+      "vendor_code": "6",
+      "description": "Марк Аврелий",
+      "price": 300,
+      "img": "./philosophy_folder/yourself.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Так говорил Заратустра",
+      "vendor_code": "7",
+      "description": "Ф. Ницше",
+      "price": 500,
+      "img": "./philosophy_folder/zarathustra.jpg"
+    }
+  ]
